@@ -12,6 +12,5 @@ do some search
 
 ### OR:
 ```
-Just click here:
-https://alezamarion.github.io/google_front_end/index.html
+<p>Just click<a href="https://alezamarion.github.io/google_front_end/index.html">here</a></p>
 ```
