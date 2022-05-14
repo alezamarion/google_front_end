@@ -10,3 +10,8 @@ open index.html with your browser
 do some search
 ```
 
+### OR:
+```
+Just click here:
+https://alezamarion.github.io/google_front_end/index.html
+```
