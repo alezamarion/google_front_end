@@ -11,6 +11,6 @@ do some search
 ```
 
 ### OR:
-```
+<br>
 <p>Just click<a href="https://alezamarion.github.io/google_front_end/index.html">here</a></p>
-```
+
